@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leomaz445
-- 👀 I’m interested in math and computer science.
-- 🌱 I’m currently learning Everything I can.
+- 👀 
+- 🌱 
 - 💞️ I will be happy to collaborate on any project.
 - 📫 Email: leomaz445@gmail.com
 
