@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on small projects evolved Java/C++<br>I will be happy to collaborate and help with anything related to it.<br>will be happy to connect
+Hi there! I'm a developer with experience in Java and C++. I'm always looking to learn and grow as a programmer, and I'm always open to collaborating on projects with other developers. If you're working on anything related to Java or C++, please don't hesitate to reach out. I'm always happy to connect with fellow developers and work together to build great things.
 
 
 ## 🌐 Socials:
